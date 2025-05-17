@@ -1,0 +1,11 @@
+C:\Users\tgdd\source\repos\NhapHang\NhapHang\bin\Debug\NhapHang.exe.config
+C:\Users\tgdd\source\repos\NhapHang\NhapHang\bin\Debug\NhapHang.exe
+C:\Users\tgdd\source\repos\NhapHang\NhapHang\bin\Debug\NhapHang.pdb
+C:\Users\tgdd\source\repos\NhapHang\NhapHang\obj\Debug\NhapHang.csproj.AssemblyReference.cache
+C:\Users\tgdd\source\repos\NhapHang\NhapHang\obj\Debug\NhapHang.frmCONGNO.resources
+C:\Users\tgdd\source\repos\NhapHang\NhapHang\obj\Debug\NhapHang.Properties.Resources.resources
+C:\Users\tgdd\source\repos\NhapHang\NhapHang\obj\Debug\NhapHang.csproj.GenerateResource.cache
+C:\Users\tgdd\source\repos\NhapHang\NhapHang\obj\Debug\NhapHang.csproj.CoreCompileInputs.cache
+C:\Users\tgdd\source\repos\NhapHang\NhapHang\obj\Debug\NhapHang.exe
+C:\Users\tgdd\source\repos\NhapHang\NhapHang\obj\Debug\NhapHang.pdb
+C:\Users\tgdd\source\repos\NhapHang\NhapHang\obj\Debug\NhapHang.frmTONGNO.resources
